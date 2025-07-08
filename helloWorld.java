@@ -1,3 +1,8 @@
-public static void main(String[] args)
 
-  
+public class helloWorld {
+
+public static void main(String[] args){
+String hello = "Hello World!!";
+System.out.println(hello);
+}
+}
